@@ -39,8 +39,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bilgekosee&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bilgekosee&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Bilge Kose github stats" /> 
+
   
   <div>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilgekosee" alt="bilgekosee" /></a> </p>
