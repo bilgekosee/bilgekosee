@@ -46,9 +46,10 @@
  </div>
   
   
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekosee&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-</div>
+ <p align="center">
+ 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekosee&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</p>
 
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=bilgekosee&theme=tokyonight_duo&hide_border=true"
