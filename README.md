@@ -79,12 +79,13 @@
 <br>
 </div>
 
-<div>
+<div align="center">
     <h2><img  width="35"
             src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilgekosee&theme=github_dark&show_icons=true" />
-
+<br><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilgekosee&theme=github_dark&show_icons=true" /><br>
+  
+ </div> 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bilgekosee&show_icons=true&theme=gotham" alt="bilgekosee" />
   
   
