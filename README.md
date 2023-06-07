@@ -38,6 +38,8 @@
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 
 
+<br />
+
 
 
   
@@ -45,7 +47,7 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilgekosee" alt="bilgekosee" /></a> </p>
  </div>
   
-  
+  <br />
  <p align="center">
  
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekosee&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
