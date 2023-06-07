@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Turkey;I'm+22+years+old;Welcome!)
 
 
@@ -77,8 +79,16 @@
 <br>
 </div>
 
+<div>
+    <h2><img  width="35"
+            src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilgekosee&theme=github_dark&show_icons=true" />
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bilgekosee&show_icons=true&theme=gotham" alt="bilgekosee" />
   
   
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
