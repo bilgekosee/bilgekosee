@@ -4,21 +4,19 @@
 
 
 <br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-<a href="https://www.instagram.com/bilge_kosee/">
-  <img align="left" alt="Bilge's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 
-<a href="https://twitter.com/Bilgekoose">
-  <img align="left" alt="Bilge Köşe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+<a href="https://www.instagram.com/bilge_kosee/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilgekosee" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/bilgekosee/">
-  <img align="left" alt="Bilge's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
+<a href="https://twitter.com/Bilgekoose" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilgekosee" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/bilgekosee/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilgekosee" height="30" width="40" /></a>
+
+</p>
 <br />
-
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="400" height="220" />
 
 
