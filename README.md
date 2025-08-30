@@ -64,10 +64,9 @@
 
 
   
-  <div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bilgekosee}/count.svg" /></p> 
-<br>
+<div align="center">
+  <p><b>Visitors Count 👽</b></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bilgekosee" alt="Visitor Count">
 </div>
 
 <div align="center">
