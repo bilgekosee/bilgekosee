@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;Welcome!)
 
+<p align="center"><a href="https://github.com/EvenStarDust"><img src="https://img.shields.io/badge/%E2%9C%A8%20Founder%20of-The%20Fellowship%20of%20the%20Code-c9a227?style=for-the-badge&labelColor=0b1d3a" alt="Founder of The Fellowship of the Code" /></a></p>
+
 
 <br />
 <h3 align="left">Connect with me:</h3>
@@ -47,9 +49,7 @@
 
 
   
-  <div>
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilgekosee" alt="bilgekosee" /></a> </p>
- </div>
+  
   
   <br />
  <p align="center">
